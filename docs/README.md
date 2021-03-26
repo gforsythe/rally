@@ -4,7 +4,7 @@
 `Rally: Building Communities Through Volunteering`
 
 
-Rall is a volunteer management app for de-centralized non-profits.
+Rally is a volunteer management app for de-centralized non-profits.
 
 Users are able to join Organizations and volunteer by filling out the Organzation's apllication forms. 
 
