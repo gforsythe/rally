@@ -6,7 +6,7 @@
 
 Rally is a volunteer management app for de-centralized non-profits.
 
-Users are able to join Organizations and volunteer by filling out the Organzation's apllication forms. 
+Users are able to join Organizations and volunteer by filling out the Organization's application forms. 
 
 If users are owners they can also manage their volunteers. 
 
